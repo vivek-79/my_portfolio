@@ -7,7 +7,6 @@ This is a **modern and stylish portfolio** built using **Next.js**, **TypeScript
 ## 🚀 Features  
 
 - **Beautiful UI** – Minimalistic and responsive design  
-- **Dark & Light Mode** – User-friendly theme switching  
 - **Framer Motion** – Smooth animations for better UX  
 - **Projects Showcase** – Highlighting key projects with links  
 - **Skills & Tech Stack** – Showcasing expertise in various technologies  
